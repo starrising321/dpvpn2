@@ -1,0 +1,13 @@
+listen=443                                                           
+ssh=445                                                             
+http=8880                                                                
+tls=443                                                                
+openvpn=1997                                                        
+socks5=2082                                                             
+# Listen and Protocol                                                
+# listen : listen port sslh                                          
+# ssh : ssh port target                                              
+# http : websocket http port target                                  
+# tls : tls port target                                              
+# openvpn : openvpn port target                                      
+# socks5 : socks5 port target
